@@ -1,0 +1,5 @@
+.DS_Store
+a.out
+*_flymake.*
+in*
+!in*.cpp
