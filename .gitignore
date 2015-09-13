@@ -3,3 +3,6 @@ a.out
 *_flymake.*
 in*
 !in*.cpp
+*.in
+*.out
+*.ans
